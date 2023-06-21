@@ -1,7 +1,7 @@
 # Prueba
 
 # Simulator image pipeline
-![GitHub Logo](https://github.com/playanaC/Skeletonizing_Unet/blob/main/Simulator_image%20pipeline.png)
+![GitHub Logo](https://github.com/ElsyVita/Prueba/blob/main/PLANTA.jpeg)
 
 # References:
 - Puchalt, J. C., SÃ¡nchez-SalmerÃ³n, A.-J., Martorell Guerola, P. & GenovÃ¡s MartÃ­nez, S. "Active backlight for automating visual monitoring: An analysis of a lighting control technique for *Caenorhabditis elegans* cultured on standard Petri plates". PLOS ONE 14.4 (2019) [doi paper](https://doi.org/10.1371/journal.pone.0215548)
